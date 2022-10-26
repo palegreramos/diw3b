@@ -4,7 +4,7 @@
 
 Ejemplos de **imágenes** e **imágenes *background***
 
-Ficheros del proyecto:
+### Ficheros del proyecto:
 
 - **index.html**
 - **styles.css**
